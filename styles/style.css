@@ -1,1 +1,13 @@
 /* место для вашего кода */
+
+.header {
+    height: 293px;
+}
+
+.cover {
+    height: 757px;
+}
+
+.lots {
+    margin: 180px 24px 120px;
+}
