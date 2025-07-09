@@ -60,8 +60,8 @@
   font-weight: 700;
   font-style: Bold;
   font-size: 100px;
-  line-height: 115px;
-  letter-spacing: 30%;
+  line-height: 130px;
+  letter-spacing: 21px;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -84,7 +84,7 @@
   position: relative;
   color: #ffffff;
   z-index: 1;
-  margin-top: 200px;
+  margin-top: 100px;
   font-family: Raleway;
   font-weight: 400;
   font-style: Regular;
@@ -93,7 +93,7 @@
 }
 
 .cover__description-text {
-  word-spacing: 12px;
+  word-spacing: 20px;
 }
 
 .bet-button {
@@ -130,7 +130,7 @@
 }
 
 .lots {
-  margin: 180px 24px 120px;
+  margin: 180px 24px 145px;
 }
 
 .lots__card-list-item {
@@ -219,7 +219,7 @@
   font-style: Bold;
   font-size: 40px;
   text-transform: uppercase;
-  padding: 100px 0;
+  padding: 110px 0 100px;
 }
 
 .about__text {
